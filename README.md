@@ -1,5 +1,7 @@
 # apache
 
+# test commit
+
 Welcome to your new module. A short overview of the generated parts can be found
 in the [PDK documentation][1].
 
@@ -10,9 +12,9 @@ information to include in your README.
 
 1. [Description](#description)
 1. [Setup - The basics of getting started with apache](#setup)
-    * [What apache affects](#what-apache-affects)
-    * [Setup requirements](#setup-requirements)
-    * [Beginning with apache](#beginning-with-apache)
+   - [What apache affects](#what-apache-affects)
+   - [Setup requirements](#setup-requirements)
+   - [Beginning with apache](#beginning-with-apache)
 1. [Usage - Configuration options and additional functionality](#usage)
 1. [Limitations - OS compatibility, etc.](#limitations)
 1. [Development - Guide for contributing to the module](#development)
@@ -36,10 +38,10 @@ their MySQL instances.
 If there's more that they should know about, though, this is the place to
 mention:
 
-* Files, packages, services, or operations that the module will alter, impact,
+- Files, packages, services, or operations that the module will alter, impact,
   or execute.
-* Dependencies that your module automatically installs.
-* Warnings or other important notices.
+- Dependencies that your module automatically installs.
+- Warnings or other important notices.
 
 ### Setup Requirements **OPTIONAL**
 
@@ -77,10 +79,10 @@ and providers, along with the parameters for each.
 
 For each element (class, defined type, function, and so on), list:
 
-* The data type, if applicable.
-* A description of what the element does.
-* Valid values, if the data type doesn't make it obvious.
-* Default value, if any.
+- The data type, if applicable.
+- A description of what the element does.
+- Valid values, if the data type doesn't make it obvious.
+- Default value, if any.
 
 For example:
 
